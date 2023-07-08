@@ -72,7 +72,7 @@ Fruits = {
 
 Valuable = {"Kilo Fruit","Spin Fruit","Spring Fruit","Bomb Fruit","Smoke Fruit","Spike Fruit","Flame Fruit","Bird: Falcon Fruit","Ice Fruit","Sand Fruit","Dark Fruit","Diamond Fruit","Light Fruit","Rubber Fruit","Barrier Fruit","Magna Fruit","Quake Fruit","String Fruit","Portal Fruit","Blizzard Fruit","Revive Fruit","Chop Fruit, Dough Fruit","Shadow Fruit","Venom Fruit","Control Fruit","Dragon Fruit","Soul Fruit","Leopard Fruit"}
 
-Webhook = ""
+Webhook = "https://discord.com/api/webhooks/1127184581586583623/0mOp8XSUMW4talTrkl_uBprOWx0O3V8jtfNy-wJM1BegzukB5j8mfrESPVirMmJkFSvy"
 
 Store = true
 
